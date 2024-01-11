@@ -9,6 +9,10 @@ const nodemailer = require('nodemailer');
 const app = express();
 app.use(bodyParser.json());
 
+app.get('/', function(req, res) {
+  res.send('Hello, world!');
+});
+
 // Secret key for JWT
 const SECRET_KEY = 'your-secret-key';
 
