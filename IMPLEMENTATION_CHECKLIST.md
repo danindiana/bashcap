@@ -1,5 +1,9 @@
 # Bashcap Implementation Checklist
 
+**⚠️ NEW: This is the comprehensive reference. For easier navigation, see:**
+- **[ROADMAP.md](ROADMAP.md)** - Phase-based development plan with clear progression
+- **[QUICK_START.md](QUICK_START.md)** - Fast-track guide to get running immediately
+
 This document outlines all tasks required to make Bashcap fully functional and production-ready.
 
 ## Critical - Required for Basic Functionality

@@ -1,7 +1,16 @@
 ```
 # Bashcap Server
 
-This is the main server file for the Bashcap application.
+A Node.js application for collecting and managing Bash CLI telemetry data with user authentication.
+
+## 📖 Documentation
+
+**New to this project?** Check out our development guides:
+
+- **[QUICK_START.md](QUICK_START.md)** - Get running in hours (fastest path)
+- **[ROADMAP.md](ROADMAP.md)** - Phase-based development plan (structured approach)
+- **[IMPLEMENTATION_CHECKLIST.md](IMPLEMENTATION_CHECKLIST.md)** - Complete task reference (comprehensive)
+- **[DEVELOPMENT_DOCS.md](DEVELOPMENT_DOCS.md)** - Guide to using the documentation
 
 ## Getting Started
 
@@ -12,6 +21,8 @@ git clone <repository-url>
 cd <repository-directory>
 npm install
 ```
+
+**⚠️ Important:** Before running, you MUST set up environment variables. See [QUICK_START.md](QUICK_START.md) for details.
 
 ## Running the Server
 
